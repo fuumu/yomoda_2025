@@ -47,6 +47,7 @@ graph TD;
 ## ブレッドボード図
 
 ## 回路図
+![IMG_5877](https://github.com/user-attachments/assets/1811ce63-4d95-4381-84a0-1a0d2cf718bd)
 
 ## ソフトウェア
 
