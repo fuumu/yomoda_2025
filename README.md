@@ -48,6 +48,7 @@ graph TD;
 
 ## 回路図
 <img width="2823" height="1335" alt="sotugyouseisaku_" src="https://github.com/user-attachments/assets/d2b9adc6-d5d4-4f7c-a100-40833769b5bd" />
+
 ![IMG_5851](https://github.com/user-attachments/assets/26883ad9-94da-4552-a5e0-63aa94eec9c7)
 
 
