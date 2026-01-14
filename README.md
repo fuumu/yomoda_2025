@@ -72,26 +72,26 @@ Adafruit_ILI9341.h
 SPI.h  
 XPT2046_Touchscreen.h  
 
-ロードセル
+ロードセル  
 HX711.h
 
 ## 参考サイト
 
 - ロードセル
-  - webサイト <https://deviceplus.jp/arduino/arduino-dezitaru-keisoku-2/>
-  - 解説動画 <https://youtu.be/1BfKZ6SDnD0?si=p0DVoaR5B4i8J-f0>
-  - キャリブレーションの解説 <https://youtu.be/sxzoAGf1kOo?si=oG0q9NBSkf5GrbU3>
+  - [webサイト](https://deviceplus.jp/arduino/arduino-dezitaru-keisoku-2/)
+  - [解説動画](https://youtu.be/1BfKZ6SDnD0?si=p0DVoaR5B4i8J-f0)
+  - [キャリブレーションの解説](htts://youtu.be/sxzoAGf1kOo?si=oG0q9NBSkf5GrbU3)
 
 - 貨幣の重さ
-  - 財務省 <https://www.mof.go.jp/policy/currency/coin/general_coin/list.htm>
+  - [財務省](https://www.mof.go.jp/policy/currency/coin/general_coin/list.htm)
 
 - LCDタッチパネル
-  - 動画 <https://www.youtube.com/watch?v=UAqyy7OqpZY>
-  - webサイト <http://jh7ubc.web.fc2.com/Arduino_R4/Arduino_UNO_R4_TFT.html>
+  - [動画](https://www.youtube.com/watch?v=UAqyy7OqpZY)
+  - [webサイト](http://jh7ubc.web.fc2.com/Arduino_R4/Arduino_UNO_R4_TFT.html)
 
 - 指紋認証モジュール
-  - 解説動画 <https://www.youtube.com/shorts/sTgih5Lm5V8>
-  - webサイト <https://www.adafruit.com/product/4750>
+  - [解説動画](https://www.youtube.com/shorts/sTgih5Lm5V8)
+  - [webサイト](https://www.adafruit.com/product/4750)
 
 - サーボ
-  - Arduino基本プロジェクト <https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/27_basic_servo.html>
+  - [Arduino基本プロジェクト](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/27_basic_servo.html)
