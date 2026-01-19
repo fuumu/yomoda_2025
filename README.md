@@ -84,8 +84,6 @@ Adafruit_ILI9341.h
 SPI.h  
 XPT2046_Touchscreen.h
 
-### 工夫した点
-
 ### 参考サイト
 
 - ロードセル
@@ -103,10 +101,6 @@ XPT2046_Touchscreen.h
 - 指紋認証モジュール
   - [解説動画](https://www.youtube.com/shorts/sTgih5Lm5V8)
   - [webサイト](https://www.adafruit.com/product/4750)
-
-- サーボ
-  - [Arduino基本プロジェクト](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/27_basic_servo.html)
-
 
 - サーボ
   - [Arduino基本プロジェクト](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/27_basic_servo.html)
