@@ -24,7 +24,7 @@ LCDタッチパネルへの重量と金額の表示
 |ロードセル用ADコンバーター|1個|ロードセルの抵抗値を測定し変換する|VCC：5V<br>GND：GND<br>DAT：4<br>CLK：5|
 |ジャンパーワイヤー|沢山|配線|各ピン|
 |LCDタッチパネル※1|1個|表示|VCC/LED：3.3V<br>GND：GND<br>CS：10<br>RESET：8<br>DC：9<br>SDI(mosi)/T_DIN(mosi)：11<br>SCK/T_CLK：13<br>T_CS：7<br>T_DO(miso)：12<br>T_IRQ：2|
-|レベルコンバータ|3個|arduinoとLEDを接続するため|各モジュールピン|
+|レベルコンバータ|3個|arduinoとLCD、指紋認証モジュールを接続するため|各モジュールピン|
 |指紋認証モジュール※1|1個|指紋認証|VCC：3.3V<br>GND：GND<br>TX：0<br>RX：1|
 |サーボ|1個|扉の開閉制御|VCC：5V<br>GND：GND<br>SERVO：6|
 
