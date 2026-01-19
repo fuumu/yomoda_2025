@@ -142,7 +142,7 @@ void displayNormal() {
 // 指紋認証中
 void displayTouch() {
   tft.fillScreen(ILI9341_BLACK); // 画面をリセット
-  tft.setCursor(60, 60);
+  tft.setCursor(1, 150);
   tft.setTextSize(3);
   tft.setTextColor(ILI9341_WHITE);
   tft.println("confirming...");
@@ -159,7 +159,7 @@ void displayTouch() {
 // 認証成功
 void displaysuccess() {
   tft.fillScreen(ILI9341_BLACK); // 画面をリセット
-  tft.setCursor(10, 50);
+  tft.setCursor(1, 50);
   tft.setTextSize(3);
   tft.setTextColor(ILI9341_WHITE);
   tft.print("Open the Door");
@@ -191,7 +191,7 @@ void displaysuccess() {
 // 認証失敗
 void displayFailure() {
   tft.fillScreen(ILI9341_BLACK);
-  tft.setCursor(60,60);
+  tft.setCursor(1, 150);
   tft.setTextSize(3);
   tft.setTextColor(ILI9341_RED);
   tft.println("AccessFailure");
