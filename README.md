@@ -53,6 +53,12 @@ graph TD;
 
 ### 画面遷移
 
+成功時の流れ
+[](movie/mov1.mp4)
+
+失敗時の流れ
+[](movie/mov2.mp4)
+
 通常時
 ![alt text](picture/normal.jpg)
 
